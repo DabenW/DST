@@ -96,3 +96,15 @@
 [00:00:07]: into your cluster settings directory.
 [00:00:07]: [Connect] PendingConnection::Reset(true)
 [00:00:09]: ... FilesExistAsyncThread complete
+[00:24:02]: Collecting garbage...
+[00:24:02]: lua_gc took 0.08 seconds
+[00:24:02]: ~ShardLuaProxy()
+[00:24:02]: ~cEventLeaderboardProxy()
+[00:24:02]: ~ItemServerLuaProxy()
+[00:24:02]: ~InventoryLuaProxy()
+[00:24:02]: ~NetworkLuaProxy()
+[00:24:02]: ~SimLuaProxy()
+[00:24:02]: lua_close took 0.10 seconds
+[00:24:02]: CurlRequestManager::ClientThread::Main() complete
+[00:24:02]: HttpClient2 discarded 0 callbacks.
+[00:24:02]: Shutting down
